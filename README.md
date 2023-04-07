@@ -1,7 +1,7 @@
 # Data-Analysis-Portfolio
 This is a repository to track my skills and knowledge in analytics
 # Project Portfolio
-
+# 1.Econometrics
 # 1st Difference in Difference Analysis in Python (and in R)
    
 Code: file:///C:/Users/CH354ZB/OneDrive%20-%20EY/Desktop/pers/Econometrics%20for%20Business%20in%20R%20and%20Python/1.%20Difference-in-Differences/minWAGEanalysis.py
@@ -88,3 +88,4 @@ Results: 1st CHAID model: Overtime can be a very good predictor for why people q
 Marital status got really downgraded the introduction of the second model with the new variables.
 3rd CHAID model: Overtime is the most important, then job level, years at company.
 
+# 2.Data Analytics
