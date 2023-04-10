@@ -99,16 +99,44 @@ Technology: Python, Numpy
    
 Results: By increasing the sample size we're getting closer and closer and closer to the expected value of 68.2%.
 
+# Financial Statement Analysis
+Code: file:///C:/Users/CH354ZB/OneDrive%20-%20EY/Desktop/pers/intro%20to%20data%20science/python%20programming%20course/financial_statement_analysis.py
+Description: Analyze financial statement. Calculate the financial metrics: profit for each month, profit after tax for each month, Profit margin for each month, good months, bad months, the best month, the worst month
+   
+Skills: Financial Statement Analysis
+   
+Technology: Python, Numpy
+   
+Results: [.....], the best month = December , the worst month = March
 
-# Demographics
-Code: file:///C:/Users/CH354ZB/OneDrive%20-%20EY/Desktop/pers/intro%20to%20data%20science/python%20programming%20course/Demographic.py
-Description: Produce a scatterplot depicting life expectancy (Y-axis) and fertility rates (X-axis). [Data for two years, 1960 and 2013 -> visualization for each of these years.]
+
+# Basketball players analysis
+Code: file:///C:/Users/CH354ZB/OneDrive%20-%20EY/Desktop/pers/intro%20to%20data%20science/python%20programming%20course/basket.py
+Description: Investigate the trends of basketball game statistics.
+   
+Skills: data cleaning, data analysis
+   
+Technology: Python, Numpy, pandas, matplotlib 
+
+Results: Points by player: ![PointsByPlayer](https://user-images.githubusercontent.com/130169752/230868359-5f36679e-9663-4725-b0b4-96e09b72fbb4.png)
+         Points minus freethrows by fieldgoals:![points_minus_freethrows_by_fieldgoals](https://user-images.githubusercontent.com/130169752/230868491-108aefa2-1dce-4cb2-9ded-163fb6487482.png)
+         Salaries by players:![salaries_by_player](https://user-images.githubusercontent.com/130169752/230868631-60ef8cba-7c0c-4e72-8875-a690e527c2d9.png)
+         FreeThrowAttempts By Games:![FreeThrowAttempts_By_Games](https://user-images.githubusercontent.com/130169752/230868763-bc8fe471-7fec-42ac-9a96-4cdc91e5af41.png)
+         FreeThrowAttempts By FreeThrows:![FreeThrowAttempts_by_FreeTrows](https://user-images.githubusercontent.com/130169752/230868859-031dce34-4258-437c-8d0b-84c2c86fd22c.png)
+
+# Movie Ratings Analysis
+Code: file:///C:/Users/CH354ZB/OneDrive%20-%20EY/Desktop/pers/intro%20to%20data%20science/python%20programming%20course/MovieRatings.py
+Description: Explore data set and investigate the trends of movie ratings statistics.
    
 Skills: data cleaning, data analysis
    
 Technology: Python, Numpy, pandas, matplotlib, seaborn
    
-Results: ![BirthRate_by_incomegroup](https://user-images.githubusercontent.com/130169752/230865271-4f34308b-e490-4bc8-966c-79a72667dc9c.png)
-![birthRate_by_internetUsers](https://user-images.githubusercontent.com/130169752/230865279-a3c457a1-0cb1-4ea2-8fea-1e2f32b9537c.png)
+Results: 4 plots viz comparing audience ratings, ctrics ratings and budget of movies: ![4plots](https://user-images.githubusercontent.com/130169752/230870480-1ded6f3e-f19f-451c-9d3a-73ee32b1ac0a.png)
+         viz audience to critic ratings for every genre, year ![crtitVsaudALL](https://user-images.githubusercontent.com/130169752/230870874-6630d604-67bd-44bb-ba43-6b09ad8d2493.png)
+         Domestic gross % US by genre per studio: ![Gross_us_by_genre_per_studio](https://user-images.githubusercontent.com/130169752/230871421-5f8bb500-1840-4ebf-bdb8-7aaa10c2457c.png)
 
+
+# Tableau Viz
+Tableau visualizations: [Tableau visualizations.pdf](https://github.com/EleniV15/Data-Analysis-Portfolio/files/11189476/Tableau.visualizations.pdf)
 
