@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-This is a repository to track my skills and knowledge in analytics
+This is a personal repository to track my skills and knowledge in analytics
 # Project Portfolio
 # 1.Econometrics
 # 1st Difference in Difference Analysis in Python (and in R)
