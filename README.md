@@ -1,6 +1,10 @@
 # Data-Analysis-Portfolio
 This is a personal repository to track my skills and knowledge in analytics
 # Project Portfolio
+
+# Tableau Viz
+Tableau visualizations: [Tableau visualizations.pdf](https://github.com/EleniV15/Data-Analysis-Portfolio/files/11189476/Tableau.visualizations.pdf)
+
 # 1.Econometrics
 # 1st Difference in Difference Analysis in Python (and in R)
    
@@ -136,7 +140,4 @@ Results: 4 plots viz comparing audience ratings, ctrics ratings and budget of mo
          viz audience to critic ratings for every genre, year ![crtitVsaudALL](https://user-images.githubusercontent.com/130169752/230870874-6630d604-67bd-44bb-ba43-6b09ad8d2493.png)
          Domestic gross % US by genre per studio: ![Gross_us_by_genre_per_studio](https://user-images.githubusercontent.com/130169752/230871421-5f8bb500-1840-4ebf-bdb8-7aaa10c2457c.png)
 
-
-# Tableau Viz
-Tableau visualizations: [Tableau visualizations.pdf](https://github.com/EleniV15/Data-Analysis-Portfolio/files/11189476/Tableau.visualizations.pdf)
 
