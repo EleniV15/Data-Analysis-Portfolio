@@ -3,7 +3,8 @@ This is a personal repository to track my skills and knowledge in analytics
 # Project Portfolio
 
 # Tableau Viz
-Tableau visualizations: [Tableau visualizations.pdf](https://github.com/EleniV15/Data-Analysis-Portfolio/files/11189476/Tableau.visualizations.pdf)
+Tableau visualizations: [Tableau visualizations .pdf](https://github.com/EleniV15/Data-Analysis-Portfolio/files/11189989/Tableau.visualizations.pdf)
+
 
 # 1.Econometrics
 # 1st Difference in Difference Analysis in Python (and in R)
