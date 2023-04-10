@@ -89,3 +89,26 @@ Marital status got really downgraded the introduction of the second model with t
 3rd CHAID model: Overtime is the most important, then job level, years at company.
 
 # 2.Data Analytics
+# Law of Large Numbers
+Code: file:///C:/Users/CH354ZB/OneDrive%20-%20EY/Desktop/pers/intro%20to%20data%20science/python%20programming%20course/LawOfLargeNumbers.py
+Description: Using the normal distribution to check if the law of large numbers actually holds true.
+   
+Skills: Law of Large Numbers analysis
+   
+Technology: Python, Numpy
+   
+Results: By increasing the sample size we're getting closer and closer and closer to the expected value of 68.2%.
+
+
+# Demographics
+Code: file:///C:/Users/CH354ZB/OneDrive%20-%20EY/Desktop/pers/intro%20to%20data%20science/python%20programming%20course/Demographic.py
+Description: Produce a scatterplot depicting life expectancy (Y-axis) and fertility rates (X-axis). [Data for two years, 1960 and 2013 -> visualization for each of these years.]
+   
+Skills: data cleaning, data analysis
+   
+Technology: Python, Numpy, pandas, matplotlib, seaborn
+   
+Results: ![BirthRate_by_incomegroup](https://user-images.githubusercontent.com/130169752/230865271-4f34308b-e490-4bc8-966c-79a72667dc9c.png)
+![birthRate_by_internetUsers](https://user-images.githubusercontent.com/130169752/230865279-a3c457a1-0cb1-4ea2-8fea-1e2f32b9537c.png)
+
+
