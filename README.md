@@ -60,7 +60,7 @@ Skills: data cleaning, data analysis, descriptive statistics, correlation matrix
    
 Technology: Python, pandas, matplotlib, grangercausalitytests, statsmodel.
    
-Results: Up until six periods (years) eggs leads to chicken, but the chicken does not lead to eggs. This tells us that when it comes to the causality bit, it is eggs that does lead to chickens and not the other way around.
+Results: Up until six periods (years) eggs leads to chicken, but the chicken does not lead to eggs. This tells us that when it comes to the causality, it is eggs that does lead to chickens and not the other way around.
 
 # Propensity Score Matching in Python (and in R)
 Code: file:///C:/Users/CH354ZB/OneDrive%20-%20EY/Desktop/pers/Econometrics%20for%20Business%20in%20R%20and%20Python/4.%20Propensity%20Score%20Matching/propensity.py
